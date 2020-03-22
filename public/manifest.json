@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "WebDetox",
-  "description": "Noise Control Chrome Extension",
+  "description": "Chrome extension to control noise and toxic topics on the web",
   "version": "1.0",
 
   "icons": {
