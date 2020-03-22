@@ -1,5 +1,7 @@
 # WebDetox
 
+[![Build Status](https://travis-ci.org/FSou1/WebDetox.svg?branch=master)](https://travis-ci.org/FSou1/WebDetox)
+
 Chrome Extension, TypeScript and Visual Studio Code.
 
 ## Prerequisites
