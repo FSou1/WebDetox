@@ -9,7 +9,7 @@
     "clean": "rimraf dist",
     "test": "npx jest"
   },
-  "author": "",
+  "author": "Maxim Zhukov",
   "license": "MIT",
   "repository": {
     "type": "git",
