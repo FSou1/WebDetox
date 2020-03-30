@@ -4,63 +4,72 @@
 
 Chrome Extension, TypeScript and Visual Studio Code.
 
-## Prerequisites
+The [extension](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhcmheadecpeoohaagakio) is available at the Chrome Store.
+
+Demo:
+![Image description](https://lh3.googleusercontent.com/YvTqo8f92JaOKMqLIS7ROUixkfcACUhRzFREvl4GyjF3B2hWKC_jOaplXkpyoaai9Luz7ZVGWg=w640-h400-e365)
+
+Say goodbye to distracting and toxic topics such (e.g. covid, coronavirus, putin). Have anything to add? You're always welcome.
+
+## Contribution
+
+### Prerequisites
 
 * [node + npm](https://nodejs.org/) (Current Version)
 
-## Option
+### Option
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-## Includes the following
+### Includes the following
 
 * TypeScript
 * Webpack
 * Jest
 * ESLint
 
-## Project Structure
+### Project Structure
 
 * src/typescript: TypeScript source files
 * src/assets: static files
 * dist: Chrome Extension directory
 * dist/js: Generated JavaScript files
 
-## Setup
+### Setup
 
 ```
 npm install
 ```
 
-## Import as Visual Studio Code project
+### Import as Visual Studio Code project
 
 ...
 
-## Build
+### Build
 
 ```
 npm run build
 ```
 
-## Build in watch mode
+### Build in watch mode
 
-### terminal
+#### terminal
 
 ```
 npm run watch
 ```
 
-### Visual Studio Code
+#### Visual Studio Code
 
 Run watch mode.
 
 type `Ctrl + Shift + B`
 
-## Load extension to chrome
+### Load extension to chrome
 
 Load `dist` directory
 
-## Test
+### Test
 `npx jest` or `npm run test`
 
 ## Thanks
