@@ -6,10 +6,9 @@ Chrome Extension, TypeScript and Visual Studio Code.
 
 The [extension](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhcmheadecpeoohaagakio) is available at the Chrome Store.
 
-Demo:
 ![Image description](https://lh3.googleusercontent.com/YvTqo8f92JaOKMqLIS7ROUixkfcACUhRzFREvl4GyjF3B2hWKC_jOaplXkpyoaai9Luz7ZVGWg=w640-h400-e365)
 
-Say goodbye to distracting and toxic topics such (e.g. covid, coronavirus, putin). Have anything to add? You're always welcome.
+Say goodbye to distracting and toxic topics such (e.g. *****, ***********, putin). Have anything to add? You're always welcome.
 
 ## Contribution
 
