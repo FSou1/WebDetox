@@ -18,10 +18,22 @@ function setBadge(text: string) {
 /**
  *
  *
+ * @export
+ * @param {Element} element
+ * @return {HTMLElement}
+ */
+export function asHTMLElement(element: Element): HTMLElement {
+  return <HTMLElement>element;
+}
+
+/**
+ *
+ *
  */
 function process() {
   const elements = document.getElementsByTagName('*') || [];
-  const filtered = filter(Array.from(elements)) || [];
+  const htmlElements = Array.from(elements).map(asHTMLElement) || [];
+  const filtered = filter(htmlElements) || [];
 
   for (const element of filtered) {
     element.textContent = replace(element.textContent);
