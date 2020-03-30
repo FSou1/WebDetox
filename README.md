@@ -8,7 +8,7 @@ The [extension](https://chrome.google.com/webstore/detail/webdetox/jglmleifkehhc
 
 ![image](https://user-images.githubusercontent.com/1132431/77929158-f6c07b00-726e-11ea-8f5a-56ae20a19a0a.png)
 
-Say goodbye to distracting and toxic topics such (e.g. ****, ******, putin). Have anything to add? You're always welcome.
+Say goodbye to distracting and toxic topics such (e.g. coronav1rus, cov1d, putin). Have anything to add? You're always welcome.
 
 ## Contribution
 
