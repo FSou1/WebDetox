@@ -5,11 +5,26 @@
  * @return {string}
  */
 export function replace(text: string): string {
-  return text
-      .replace(/коронавирус/gi, '**********')
-      .replace(/coronavirus/gi, '***********')
-      .replace(/путин/gi, '*****')
-      .replace(/кремл/gi, '*****')
-      .replace(/covid/gi, '*****')
-      .replace(/пандеми/gi, '*******');
+  const blacklist = [
+    'коронавирус',
+    'путин',
+    'кремл',
+    'пандеми',
+    'медве',
+    'собя',
+    'голико',
+    'зени',
+    'спарта',
+    'covid',
+    'coronavirus',
+  ];
+
+  for (const word of blacklist) {
+    text = text.replace(
+        new RegExp(word, 'gi'),
+        new Array(word.length).fill('*').join(''),
+    );
+  }
+
+  return text;
 }

@@ -3,7 +3,7 @@
 
   "name": "WebDetox",
   "description": "Chrome extension to control noise and toxic topics on the web",
-  "version": "1.0.1",
+  "version": "1.0.2",
 
   "icons": {
     "16": "icon16.png",
