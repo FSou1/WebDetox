@@ -75,4 +75,4 @@ Load `dist` directory
 
 Initial codebase by [Chrome Extension TypeScript Starter](https://github.com/chibat/chrome-extension-typescript-starter);
 
-Icons made by Muhammad Haq from [www.freeicons.io](www.freeicons.io);
+Icons made by Muhammad Haq from [www.freeicons.io](https://www.freeicons.io/);
